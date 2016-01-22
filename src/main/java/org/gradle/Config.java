@@ -16,6 +16,30 @@ public class Config {
 
 	private String dbName;
 
+	public void setUserName(String userName) {
+		this.userName = userName;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+
+	public void setServerName(String serverName) {
+		this.serverName = serverName;
+	}
+
+	public void setPortNumber(int portNumber) {
+		this.portNumber = portNumber;
+	}
+
+	public void setDbms(String dbms) {
+		this.dbms = dbms;
+	}
+
+	public void setDbName(String dbName) {
+		this.dbName = dbName;
+	}
+
 	public String getUserName() {
 		return userName;
 	}
