@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<userName>entwicklertage</userName>
+	<password></password>
+	<serverName>bwk-technik.de</serverName>
+	<portNumber>3306</portNumber>
+	<dbms>mysql</dbms>
+	<dbName>entwicklertage</dbName>
+</config>
